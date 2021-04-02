@@ -1,0 +1,29 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=0,66,996,993,1.1,0,0>
+  <Grid=10,10,0>
+  <DataSet=full-bridge-rectifier-no-ripple.dat>
+  <DataDisplay=full-bridge-rectifier-no-ripple.sch>
+  <OpenDisplay=1>
+  <Script=full-bridge-rectifier-no-ripple.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 276 549 673 463 3 #c0c0c0 1 00 1 0 0.002 0.034 1 -8.79999 2 8.79984 1 -1 0.2 1 315 0 225 "" "" "" "">
+	<"Transf_out.Vt" #0000ff 0 3 0 0 0>
+	<"Load_out.Vt" #ff0000 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
